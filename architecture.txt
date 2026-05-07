@@ -1,0 +1,7 @@
+agentic-data-engine/
+├── .env                # Secrets (Snowflake & Gemini Keys)
+├── .gitignore          # Keeps secrets off GitHub
+├── agent_brain.py      # The LLM logic (The "AI" part)
+├── snowflake_utils.py  # Custom SQL tools (The "Data" part)
+├── rca_monitor.py      # Root Cause Analysis logic
+└── requirements.txt    # Project dependencies
