@@ -1,0 +1,12 @@
+README.md
+setup.py
+agentic_data_engine.egg-info/PKG-INFO
+agentic_data_engine.egg-info/SOURCES.txt
+agentic_data_engine.egg-info/dependency_links.txt
+agentic_data_engine.egg-info/top_level.txt
+core/__init__.py
+core/agent_brain.py
+core/snowflake_utils.py
+orchestration/__init__.py
+orchestration/azure_monitor_dag.py
+services/__init__.py
